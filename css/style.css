@@ -277,6 +277,10 @@ nav .container .nav li a:hover {
         padding: 0 100px;
     }
 
+    .banner .content {
+        width: 100%;
+    }
+
     .banner .image {
 
         margin-left: 0;
